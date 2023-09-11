@@ -40,7 +40,7 @@ In other programming language
 ## switch function:
 It is not check all the conditon like for loop.it directly check condition if any case is true then gives output other wise give default value.
 ## Python itertools:
-Python痴 Itertool is a module that provides various functions that work on iterators to produce complex iterators. 
+Python Itertool is a module that provides various functions that work on iterators to produce complex iterators. 
 ## Python iter() and next()|converting an object in iterator:
 The __iter__() function returns an iterator for the given object (array, set, tuple, etc. or custom objects). It creates an object that can be accessed one element at a time using __next__() function.
 ## Python|difference between iterable and iterator:
